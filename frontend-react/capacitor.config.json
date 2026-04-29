@@ -1,0 +1,11 @@
+{
+  "appId": "com.seu.app",
+  "appName": "Financas",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": true
+    }
+  }
+}
